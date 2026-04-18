@@ -18,3 +18,13 @@ The pipeline consists of 5 tasks:
 4. **task4_read_report** — Reads the generated CSV report
 5. **task5_send_email** — Sends the final report by email
 
+##  Screenshots
+
+### DAG Graph View
+![DAG Graph](Screenshot%202026-04-18%20110013.png)
+
+### DAGs List
+![DAGs List](Screenshot%202026-04-18%20110036.png)
+
+### DAG Code View
+![DAG Code](Screenshot%202026-04-18%20110235.png)
